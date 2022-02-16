@@ -1,0 +1,3 @@
+mariadb:
+lance.friedman : o>WJ5-jD<5^m3
+Contraseña con caracteres especiales en hexadeciaml: o%3EWJ5-jD%3C5%5Em3
